@@ -1,2 +1,4 @@
 (sym_lib_table
+  (version 7)
+  (lib (name "corne-chocolate-rescue")(type "KiCad")(uri "${KIPRJMOD}/corne-chocolate-rescue.kicad_sym")(options "")(descr ""))
 )
